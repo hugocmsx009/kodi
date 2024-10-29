@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://hugocmsx009.github.io/kodi/'
 languageCode = 'en-us'
 title = 'Pehtheme'
 theme = 'pehtheme-hugo'
